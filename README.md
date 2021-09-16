@@ -4,9 +4,9 @@
 
 - I'm Kasper Jalris, and im currently studying Software Engineering on the 5th semester
 
-- I have worked with/on: Kubernetes, Docker, Microservices, OOP, PostgresSQL, MongoDB
+- I have worked with/on: Kubernetes, Docker, Microservices, OOP, PostgresSQL, MongoDB and more..
 
-- I have worked with the languages: Python, Java, Javascript, Typescript, HTML/CSS, XML
+- I have worked with: Python, Java, Javascript, Typescript, HTML/CSS, XML
 
 ### What i'm interrested in the future
 
