@@ -3,6 +3,7 @@
 ## About me
 
 - I'm Kasper Jalris, and im currently studying Software Engineering.
+- Bachelor done, starting candidate soon
 
 ### What i'm interrested in the future
 
@@ -10,4 +11,4 @@
 
 ### Contact information
 
-- I can be contacted on: KasperJalris@hotmail.com
+- I can be contacted on: kasperJalris@hotmail.com
