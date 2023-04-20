@@ -11,4 +11,4 @@
 
 ### Contact information
 
-- I can be contacted on: kasperJalris@hotmail.com
+- I can be contacted on: kasperjalris@hotmail.com
