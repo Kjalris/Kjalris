@@ -3,7 +3,7 @@
 ## About me
 
 - I'm Kasper Jalris, and im currently studying Software Engineering.
-- Bachelor done, starting candidate soon
+- Ongoing on candidate
 
 ### What i'm interrested in the future
 
