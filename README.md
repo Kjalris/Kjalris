@@ -4,8 +4,5 @@
 
 - I'm Kasper Jalris, and im currently studying Software Engineering.
 - Ongoing on candidate
+- For more information, visit jalris.dk
 
-
-### Contact information
-
-- I can be contacted on: kasperjalris@hotmail.com
