@@ -2,7 +2,7 @@
 
 ## About me
 
-- I'm Kasper Jalris, and im currently studying Software Engineering.
-- Ongoing on candidate
+- I'm Kasper Jalris
+- Finnished my master degree in Software Engineering 2024
 - For more information, visit jalris.dk
 
